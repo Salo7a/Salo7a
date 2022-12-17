@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **NodeJS, Deployment, Python or anything you want**
 
+- 📄 Know about my experiences [https://github.com/Salo7a/Salo7a/blob/main/Ahmed_Shemais_Resume.pdf](https://github.com/Salo7a/Salo7a/blob/main/Ahmed_Shemais_Resume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-shemais-00aa7b11b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-shemais-00aa7b11b" height="30" width="40" /></a>
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salo7a&show_icons=true&locale=en" alt="salo7a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salo7a&" alt="salo7a" /></p>
-
